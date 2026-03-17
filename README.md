@@ -1,7 +1,7 @@
 # Exercícios S1_R2-AT1_LOPAL
 Exercício 1
 
-O algoritmo inicia solicitando ao usuário que digite seu nome. Após a leitura dessa informação, o sistema vai realizar apenas uma ação de exibição, apresentando uma mensagem de saudação ao úsuario “Olá, seja bem vindo, [nome informado]!”
+O algoritmo inicia solicitando ao usuário que digite seu nome. Após a leitura dessa informação, o sistema vai realizar apenas uma ação de exibição, apresentando uma mensagem de saudação ao usuário “Olá, seja bem vindo, [nome informado]!”
 
 <img width="242" height="262" alt="image" src="https://github.com/user-attachments/assets/3fd68c9e-c59c-4292-8ca1-151268c95bbf" />
 
