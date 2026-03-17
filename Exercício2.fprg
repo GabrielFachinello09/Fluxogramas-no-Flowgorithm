@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Exerc&#237;cio2"/>
+        <attribute name="authors" value="I1D35"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-03-17 02:41:06 "/>
+        <attribute name="created" value="STFEMzU7RUNGUDUwN0QxMjYzNjA3OzIwMjYtMDMtMTc7IjAxOjUwOjQ1ICI7MjM1Ng=="/>
+        <attribute name="edited" value="STFEMzU7RUNGUDUwN0QxMjYzNjA3OzIwMjYtMDMtMTc7IjAyOjQxOjA2ICI7MTsyNDYy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="somatoria" type="Real" array="False" size=""/>
+            <declare name="numeroUm" type="Integer" array="False" size=""/>
+            <declare name="numeroDois" type="Integer" array="False" size=""/>
+            <output expression="&quot;Qual &#233; seu primeiro n&#250;mero?&quot;" newline="True"/>
+            <input variable="numeroUm"/>
+            <comment text="Entrada ir&#225; associar suas v&#225;riaveis a sua resposta"/>
+            <output expression="&quot;Qual &#233; o seu segundo n&#250;mero&quot;" newline="True"/>
+            <input variable="numeroDois"/>
+            <assign variable="somatoria" expression="numeroUm + numeroDois"/>
+            <output expression="&quot;A somat&#243;ria dos n&#250;mero d&#225;: &quot; &amp; somatoria" newline="True"/>
+            <comment text="Ser&#225; feita a soma por meio das v&#225;riaveis que foram classificadas de acordo com a resposta do usu&#225;rio"/>
+        </body>
+    </function>
+</flowgorithm>
